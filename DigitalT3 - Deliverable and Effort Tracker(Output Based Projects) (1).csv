@@ -1,0 +1,17 @@
+Month,Client Name,Project / Workstream Name,Deliverable,"Work Item / 
+Product Backlog Item","Type (Plan, Design, Dev, QA, Deploy, Document)",Acceptance Criteria,Consultant Name,Dependencies,Waiting On,"Estimated 
+Start Data","Estimated 
+End Date",Estimated Effort (Hours),Actual Start Date,Actual End Date,Actual Effort Hours,ETC (Estimate to Complete) ,EAC (Estimate at Completion),Variance,Status (Completed / Pending),Remarks
+Nov-24,Informmix,Data Warehouse Creation,Payroll Data Lake,5362,PLAN,Signoff on Backlog and Timeline,Noel J,None,None,4-Nov-24,8-Nov-24,40,4-Nov-24,11-Nov-24,48,0,48,8,Completed,
+Nov-24,Informmix,Data Warehouse Creation,Payroll DataLake,5721,Design,LLD Signoff,Noel J,None,None,11-Nov-24,15-Nov-24,40,12-Nov-24,15-Nov-24,32,0,32,-8,Completed,
+Nov-24,Informmix,Data Warehouse Creation,Payroll Data Lake,5733,Development,Code Walkthrough Signoff,Noel J,None,None,18-Nov-24,25-Nov-24,48,18-Nov-24,27-Nov-24,64,0,64,16,Completed,
+Nov-24,Informmix,Data Warehouse Creation,Payroll Data Lake,5798,QA,Signoff on Test Results,Noel J,None,None,26-Nov-24,29-Nov-24,32,28-Nov-24,3-Dec-24,32,0,32,0,Completed,
+Nov-24,Informmix,Data Warehouse Creation,HR Data Lake,5892,TBD,Signoff on Backlog and Timeline,Sam W,None,None,11-Nov-24,15-Nov-24,40,11-Nov-24,15-Nov-24,40,0,40,0,Completed,
+Nov-24,Informmix,Data Warehouse Creation,HR Data Lake,5899,"Design, Document",LLD Signoff,Sam W,None,None,18-Nov-24,22-Nov-24,40,18-Nov-24,22-Nov-24,40,0,40,0,Completed,
+Dec-24,Informmix,Data Warehouse Creation,Payroll Data Lake,5930,Document,Signoff on Documentation,Noel J,None,None,2-Dec-24,4-Dec-24,24,4-Dec-24,9-Dec-24,32,0,32,8,Completed,
+Dec-24,Informmix,Data Warehouse Creation,Payroll Data Lake,6010,Deploy,Production Signoff,Noel J,None,None,5-Dec-24,6-Dec-24,16,10-Dec-24,11-Dec-24,16,0,16,0,Completed,
+Dec-24,Informmix,Data Warehouse Creation,HR Data Lake,6022,Development,Code Walkthrough Signoff,Sam W,None,None,25-Nov-24,5-Dec-24,72,25-Nov-24,9-Dec-24,88,0,88,16,Completed,
+Dec-24,Informmix,Data Warehouse Creation,HR Data Lake,6045,QA,Signoff on Test Results,Sam W,None,None,6-Dec-24,13-Dec-24,48,10-Dec-24,17-Dec-24,48,0,48,0,Completed,
+Dec-24,Informmix,Data Warehouse Creation,HR Data Lake,6099,Document,Signoff on Documentation,Sam W,None,None,16-Dec-24,18-Dec-24,24,18-Dec-24,20-Dec-24,24,0,24,0,Completed,
+Dec-24,Informmix,Data Warehouse Creation,HR Data Lake,6130,DEPLOY,Production Signoff,Sam W,None,None,19-Dec-24,20-Dec-24,16,23-Dec-24,24-Dec-24,16,0,16,0,Completed,
+,,,,,,,,,,,,440,,,480,,,40,,

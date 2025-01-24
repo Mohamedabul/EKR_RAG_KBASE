@@ -1,0 +1,67 @@
+Application,Supports,No.of.Users,Software Owner,IT Owner,Application Business Domain,Existing Sub Domain,Application Type,Locations,Regional
+CRM Plus,"Sales Operations, Marketing, Customer Service",2500,Salesforce,John Smith,Customer Management,Sales & Marketing,Commercial Off-The-Shelf,"New York, London, Singapore",Global
+HR Portal,Human Resources,1200,Internal,Sarah Johnson,Employee Management,HR Operations,Custom Developed,"Mumbai, Bangkok, Singapore",APAC
+Finance Pro,"Finance, Accounting, Treasury",800,Oracle,Michael Chen,Financial Management,Accounting,Commercial Off-The-Shelf,Worldwide,Global
+Supply Chain Manager,"Operations, Logistics, Procurement",1500,Internal,David Wilson,Supply Chain,Logistics,Custom Developed,"London, Paris, Frankfurt, Madrid",EMEA
+Marketing Analytics,Marketing,350,Adobe,Emily Brown,Customer Management,Digital Marketing,SaaS,Worldwide,Global
+Inventory Control System,"Warehouse, Operations",600,Internal,Robert Lee,Supply Chain,Inventory Management,Custom Developed,"Tokyo, Seoul, Sydney",APAC
+Employee Training Platform,"Learning & Development, HR",5000,Cornerstone,Lisa Anderson,Employee Management,Training,SaaS,Worldwide,Global
+Procurement Portal,Purchasing,250,Internal,James Wong,Supply Chain,Procurement,Custom Developed,"Dubai, Riyadh, Istanbul",EMEA
+Customer Support Hub,"Customer Service, Sales Operations",1800,Zendesk,Maria Garcia,Customer Management,Support Operations,Commercial Off-The-Shelf,Worldwide,Global
+Project Management Suite,"PMO, All Departments",3000,Atlassian,Tom Baker,Project Management,Portfolio Management,SaaS,Worldwide,Global
+Asset Management System,"Facilities, Operations, Maintenance",400,Internal,Chris Taylor,Asset Management,Maintenance,Custom Developed,"Singapore, Hong Kong, Jakarta",APAC
+Business Intelligence Dashboard,"Analytics, Finance, Sales",2000,Tableau,Jennifer Park,Business Intelligence,Reporting,SaaS,Worldwide,Global
+Document Management System,All Departments,7500,Microsoft,Kevin O'Brien,Content Management,Document Storage,Commercial Off-The-Shelf,Worldwide,Global
+Compliance Tracker,"Legal, Finance, Risk Management",900,Internal,Amanda Wu,Risk Management,Compliance,Custom Developed,"Amsterdam, Brussels, Copenhagen",EMEA
+Time & Attendance System,"Human Resources, All Departments",6000,Workday,Ryan Martinez,Employee Management,Time Management,SaaS,Worldwide,Global
+Legacy ERP System,"FINANCE, ACCOUNTING",TBD,SAP,TBD,Financial Management,ERP,Commercial Off-The-Shelf,EMEA/APAC,Global
+Mobile App Platform,"Development, IT OPS",450,,Jason Phillips,Application Development,Mobile Development,Custom Developed,"India, Singapore",APAC/EMEA
+Security Scanner,IT SECURITY,900,Internal,Robert Wong,Security,Infrastructure,Commercial Off-The-Shelf,"France, Germany, Sweden, Taiwan",EMEA
+Data Warehouse,"BI, Analytics, REPORTING",2300,Snowflake,,Data Management,Analytics,SaaS,"EMEA, North America",Global/EMEA
+IoT Platform,"Operations, Manufacturing",TBD,Azure,Maria Santos,IoT,Manufacturing,SaaS,Japan/Korea/Taiwan,APAC
+Network Monitor,IT INFRASTRUCTURE,750,Internal,TBD,Infrastructure,Network,Custom Developed,EMEA,EMEA/APAC
+Cloud Management Portal,"Cloud Ops, DEVOPS",1200,AWS,,Cloud Management,Infrastructure,SaaS,worldwide,Global
+Desktop Support System,IT SUPPORT,5000,ServiceNow,James Wilson,IT Service Management,,Commercial Off-The-Shelf,"UK, France, India",EMEA
+Risk Assessment Tool,"Risk, Compliance, AUDIT",,Internal,Sarah Lee,Risk Management,Compliance,Custom Developed,Singapore/Malaysia,Global
+Collaboration Suite,ALL DEPARTMENTS,10000,Microsoft,TBD,Collaboration,Communication,SaaS,WORLDWIDE,
+API Gateway,"Integration, DEVELOPMENT",800,,Michael Brown,Integration,API Management,Commercial Off-The-Shelf,"US, UK, APAC",Global/APAC
+Performance Monitor,"IT OPS, INFRASTRUCTURE",250,Internal,Lisa Chen,Infrastructure,Monitoring,Custom Developed,Germany/France/Spain,EMEA
+Data Quality Tool,DATA MANAGEMENT,TBD,Informatica,David Kim,Data Management,,SaaS,"India, China",EMEA
+Customer Analytics,"Marketing, SALES",900,Adobe,Emma Watson,Analytics,Marketing,SaaS,EMEA/US,Global
+Backup Solution,IT INFRASTRUCTURE,450,Veeam,,Infrastructure,Backup,Commercial Off-The-Shelf,"Japan, Korea, India",APAC/EMEA
+Contract Management,"LEGAL, PROCUREMENT",600,Internal,TBD,Legal,Contract Management,Custom Developed,UK/Germany/France,
+Enterprise Search,ALL DEPARTMENTS,3000,Elastic,Andrew Clark,Search,,SaaS,worldwide,Global/APAC
+Mobile Device Management,IT SECURITY,4500,VMware,,Security,Mobile Security,Commercial Off-The-Shelf,"APAC, EMEA",Global
+Resource Planning,"HR, FINANCE",TBD,Oracle,Jessica Tan,Resource Management,Planning,Custom Developed,"Singapore, India, UK",APAC
+Workflow Automation,ALL DEPARTMENTS,1500,Internal,TBD,Process Automation,,Custom Developed,France/Germany/Italy/India,EMEA
+Enterprise Messaging,"Communications, IT",8000,Slack,Thomas Lee,Communication,Messaging,SaaS,WORLDWIDE,Global
+Authentication System,"SECURITY, IT",2500,Okta,,Security,Identity Management,Commercial Off-The-Shelf,US/EMEA,Global/EMEA
+Virtual Desktop,IT INFRASTRUCTURE,3000,Citrix,Peter Wong,Infrastructure,Desktop,Commercial Off-The-Shelf,"China, Japan, UK",APAC
+Code Repository,"DEVELOPMENT, DEVOPS",1200,GitLab,TBD,Development,Version Control,SaaS,EMEA/APAC/US,Global
+Asset Tracker,"IT, FACILITIES",800,Internal,,Asset Management,,Custom Developed,India/Singapore/Malaysia,EMEA
+Survey Platform,"HR, MARKETING",400,Qualtrics,Rachel Green,Customer Management,Feedback,SaaS,worldwide,
+Payment Gateway,"FINANCE, SALES",TBD,Stripe,Mark Johnson,Financial Management,Payments,Commercial Off-The-Shelf,"EMEA, APAC",Global/APAC
+Knowledge Base,"SUPPORT, IT",1500,Internal,TBD,Knowledge Management,,Custom Developed,"UK, France, India, China",EMEA
+Video Conferencing,ALL DEPARTMENTS,7500,Zoom,,Communication,Conferencing,SaaS,WORLDWIDE,Global
+License Management,"IT, PROCUREMENT",600,Internal,Steven Chang,Asset Management,Licensing,Custom Developed,Germany/France/India,EMEA
+Chatbot Platform,CUSTOMER SERVICE,900,Internal,,Customer Service,AI,Custom Developed,APAC/EMEA,Global
+Data Lake,"ANALYTICS, BI",TBD,AWS,Emily Liu,Data Management,Big Data,SaaS,"Singapore, India, UAE",APAC
+Print Management,IT INFRASTRUCTURE,1200,PaperCut,TBD,Infrastructure,Printing,Commercial Off-The-Shelf,France/Germany/Spain/Japan,EMEA
+Mobile Analytics,"MARKETING, SALES",800,Google,,Analytics,Mobile,SaaS,EMEA/US,Global/APAC
+Test Management,"QA, DEVELOPMENT",450,Internal,Jane Smith,Development,Testing,Custom Developed,"India, China, UK",APAC
+Social Media Management,"MARKETING, PR",TBD,Hootsuite,Michael Zhang,Marketing,Social Media,SaaS,worldwide,Global
+Expense Management,"FINANCE, HR",2000,SAP Concur,,Financial Management,Expenses,Commercial Off-The-Shelf,EMEA/APAC,Global/EMEA
+Database Monitor,"IT OPS, DBA",300,Internal,TBD,Infrastructure,Database,Custom Developed,Singapore/Malaysia/India,APAC
+Content Delivery,"IT, MARKETING",900,Akamai,Chris Wilson,Infrastructure,CDN,SaaS,"UK, France, India, Japan",EMEA
+Access Control,"SECURITY, FACILITIES",TBD,Internal,,Security,Physical Security,Custom Developed,"EMEA, APAC",Global
+Log Management,IT SECURITY,750,Splunk,Adam Lee,Security,Logging,Commercial Off-The-Shelf,Germany/UK/India,EMEA
+Translation Service,ALL DEPARTMENTS,1500,Internal,TBD,Content Management,Localization,Custom Developed,APAC/EMEA/US,Global
+Performance Testing,"QA, DEVELOPMENT",400,Internal,,Development,Testing,Custom Developed,"India, China",APAC/EMEA
+Email Marketing,"MARKETING, SALES",600,Mailchimp,Sarah Park,Marketing,Email,SaaS,EMEA/US,Global
+Capacity Planning,"IT OPS, INFRASTRUCTURE",TBD,Internal,David Chen,Infrastructure,Planning,Custom Developed,"Japan, Korea, UK",APAC
+Storage Management,IT INFRASTRUCTURE,800,NetApp,,Infrastructure,Storage,Commercial Off-The-Shelf,WORLDWIDE,Global
+Voice System,"IT, COMMUNICATIONS",3500,Cisco,TBD,Communication,Telephony,Commercial Off-The-Shelf,France/Germany/India,EMEA
+Password Manager,"SECURITY, IT",5000,LastPass,,Security,Password Management,SaaS,worldwide,Global/EMEA
+Quality Management,"MANUFACTURING, QA",900,Internal,Michelle Lee,Manufacturing,Quality Control,Custom Developed,"China, Japan, Germany",APAC
+Reporting Tool,ALL DEPARTMENTS,2500,Power BI,TBD,Business Intelligence,Reporting,SaaS,EMEA/APAC,Global
+Ticketing System,"IT SUPPORT, HR",1800,ServiceNow,,Service Management,Ticketing,Commercial Off-The-Shelf,UK/France/Singapore,EMEA
